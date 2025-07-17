@@ -6,11 +6,17 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/484cd46408226494fbc73c25fbebcff2b6e5e5550452e75ae2ac3b43867e9fd3/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3135393964373130373031393732352e356639643363376261653633362e676966"  />
+</div>
+
+###
+
 <h2 align="left">Sobre Mim</h2>
 
 ###
 
-<p align="left">🖥️ ADS<br><br>✨ Residente em Inteligência Artificial...<br><br>📚 Foco em Python, Visão Computacional e Machine Learning...<br><br>🌍 Apaixonada por novas tecnologias e games...</p>
+<p align="left">🖥️ ADS<br><br>✨ Residente em Inteligência Artificial..<br><br>📚 Foco em Python, Visão Computacional e Machine Learning ...<br><br>🌍 Apaixonada por novas tecnologias e games...</p>
 
 ###
 
@@ -40,15 +46,13 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BeaGsv/BeaGsv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BeaGsv/BeaGsv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BeaGsv/BeaGsv/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://mihail.co/media/2023/snake.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/beatrizvieiraa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
