@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://mihail.co/media/2023/snake.gif"  />
+  <img height="200" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg"  />
 </div>
 
 ###
