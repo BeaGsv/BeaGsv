@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Analista de sistemas (Unifil) e Residente em Inteligência Artificial no HUB de IA SENAI Londrina. Neste ambiente imersivo, foco na aplicação prática de IA, Ciência de Dados e Machine Learning na Indústria. Busco constantemente novos conhecimentos, colaborações significativas e projetos com impacto real.</p>
+<p align="left">Arquiteta, Analista de sistemas (Unifil) e Residente em Inteligência Artificial no HUB de IA SENAI Londrina. Neste ambiente imersivo, foco na aplicação prática de IA, Ciência de Dados e Machine Learning na Indústria. Busco constantemente novos conhecimentos, colaborações significativas e projetos com impacto real.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🖥️ ADS<br><br>✨ Residente em Inteligência Artificial..<br><br>📚 Foco em Python, Visão Computacional e Machine Learning ...<br><br>🌍 Apaixonada por novas tecnologias e games...</p>
+<p align="left">🧮 Cientista de dados<br><br>🖥️ Análise e Desnvolvimento de Sistemas<br><br>📐 Arquiteta e Urbanista<br><br>✨ Residente em Inteligência Artificial..<br><br>📚 Foco em Python, Visão Computacional e Machine Learning ...<br><br>🌍 Apaixonada por novas tecnologias e games...</p>
 
 ###
 
