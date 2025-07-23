@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">🧮 Cientista de dados<br><br>🖥️ Análise e Desnvolvimento de Sistemas<br><br>📐 Arquiteta e Urbanista<br><br>✨ Residente em Inteligência Artificial..<br><br>📚 Foco em Python, Visão Computacional e Machine Learning ...<br><br>🌍 Apaixonada por novas tecnologias e games...</p>
+<p align="left">🧮 Cientista de dados<br><br>🖥️ Análise e Desnvolvimento de Sistemas<br><br>📐 Arquiteta e Urbanista<br><br>✨ Residente em Inteligência Artificial<br><br>📚 Foco em Python, Visão Computacional e Machine Learning<br><br>🌍 Apaixonada por novas tecnologias e games</p>
 
 ###
 
-<h2 align="left">Tecnologias, linguagens e ferramentas 💻</h2>
+<h2 align="left">Tecnologias, linguagens e ferramentas</h2>
 
 ###
 
